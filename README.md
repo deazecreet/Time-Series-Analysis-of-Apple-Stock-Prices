@@ -1,4 +1,4 @@
-# Time-Series-Analysis-of-Apple-Stock-Prices
+# Time Series Forecasting of Apple Stock Prices
 
 ## Project Overview
 This project involves time series analysis on Apple's stock price from 1980 to 2021, aiming to forecast future prices using Long Short-Term Memory (LSTM) networks. By leveraging TensorFlow and Keras, the model predicts closing prices based on historical data, showcasing the potential of LSTM in financial market analysis.
